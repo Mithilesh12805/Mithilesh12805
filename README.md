@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mithilesh12805
-- 👀 I’m interested in DSA
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a state level wicket-keeper batsman
