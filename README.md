@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mithilesh12805
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python Programming
+- 🌱 I’m currently learning modules of Python Programming Language 
 - 😄 Pronouns: he/him
 
 <!---
